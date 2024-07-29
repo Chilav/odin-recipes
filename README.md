@@ -1,1 +1,1 @@
-# odin-recipes
+writing various recipes for different dishes with the ingredients and steps taken
